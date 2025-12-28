@@ -1,8 +1,8 @@
 ---
-### Source: [Book, Chapter, Section]
+### Source: Wealth of Nations, Book IV, Chapter IX
 **Quote:**
-> "[Paste the full passage here.]"
+> "The sovereign has only three duties to attend to; three duties of great importance, indeed, but plain and intelligible to common understandings: first, the duty of protecting the society from the violence and invasion of other independent societies; secondly, the duty of protecting, as far as possible, every member of the society from the injustice or oppression of every other member of it, or the duty of establishing an exact administration of justice; and thirdly, the duty of erecting and maintaining certain public works and certain public institutions, which it can never be for the interest of any individual, or small number of individuals, to erect and maintain; because the profit could never repay the expence to any individual or small number of individuals, though it may frequently do much more than repay it to a great society."
 
 **Analysis:**
-[Provide a 2-3 sentence analysis connecting the passage to the themes of the invisible hand and government intervention.]
+This passage clarifies Smith's view that government has three essential roles: national defense, administration of justice, and provision of public goods. While Smith is known for advocating free markets and the invisible hand, he recognizes that these government functions are necessary for a market society to function properly. This demonstrates that Smith's conception of government is not minimal but rather limited to areas where markets fail or cannot provide.
 ---
